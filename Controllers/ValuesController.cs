@@ -40,6 +40,8 @@ namespace Dockersampleconfig.Controllers
             l.Add("Kanini second Data Added");
             l.Add("Kanini second Data Added");
             l.Add("Kanini second Data Added");l.Add("Kanini second Data Added");l.Add("Kanini second Data Added");
+            l.Add("success");
+            l.Add("done");
             return l;
         }
     }
