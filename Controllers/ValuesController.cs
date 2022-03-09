@@ -38,6 +38,8 @@ namespace Dockersampleconfig.Controllers
             l.Add("RBC data added");
             l.Add("Kanini Data Added");
             l.Add("Kanini second Data Added");
+            l.Add("Kanini second Data Added");
+            l.Add("Kanini second Data Added");l.Add("Kanini second Data Added");l.Add("Kanini second Data Added");
             return l;
         }
     }
